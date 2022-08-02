@@ -1,19 +1,19 @@
-// var mywallet = 300;
+var mywallet = 300;
 
-// var myroll = 216;
-
-
-// myroll += 100;
+var myroll = 216;
 
 
-// myroll -= 50;
-// console.log(myroll);
+myroll += 100;
 
-// myroll++;
 
-// var age = '20';
-// var you = 90;
-// console.log(parseInt(age)+you);
+myroll -= 50;
+console.log(myroll);
+
+myroll++;
+
+var age = '20';
+var you = 90;
+console.log(parseInt(age)+you);
 
 var num1 = 0.1;
 var num2 = 0.2;
