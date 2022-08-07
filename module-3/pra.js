@@ -12,6 +12,6 @@ function addUp(num) {
 
 // console.log(addUp(4))
 
-// 
 
-console.log(cubes(3));
+
+
